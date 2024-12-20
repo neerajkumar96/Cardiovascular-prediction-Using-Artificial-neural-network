@@ -1,0 +1,2 @@
+# Cardiovascular-prediction-Using-Artificial-neural-network
+Heart disease prediction using Artificial Neural Networks involves leveraging machine learning to analyze patient data and predict the likelihood of developing heart disease. The goal is to predict whether a person is at risk of heart disease based on medical and lifestyle data such as age, sex, blood pressure, cholesterol levels, other prameter
